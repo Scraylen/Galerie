@@ -1,0 +1,11 @@
+html {
+    --accent-color: #0C53A6;
+    background-color: #e3f1ff;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.5vw;
+}
